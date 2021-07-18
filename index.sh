@@ -1,3 +1,0 @@
-echo "Success"
-date
-cal
